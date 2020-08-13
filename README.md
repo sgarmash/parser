@@ -6,5 +6,6 @@ To install dependencies
 
 #### Add database logger and create table name site_info
 Add the following fields to the table {id, date, domain, page_url, price, discount, product_discount}
+#### Password to bd 1111
 
 #### Open your browser  
