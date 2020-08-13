@@ -1,0 +1,23 @@
+{
+    "name": "parser",
+    "description": "Parser site",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "parser",
+        "email": "sergey.garmash09@gmail.com"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "coderockr/php-query": "dev-master"
+    },
+    "autoload": {
+      "psr-4": {
+        "App\\": "App/"
+      },
+      "files": [
+        "helpers.php"
+      ]
+    }
+  }
