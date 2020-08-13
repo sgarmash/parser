@@ -9,7 +9,6 @@
 <body>
     <?php 
         require_once 'app/parser.php';
-        require_once 'app/config.php';
 
         $query ="SELECT * FROM site_info";
 
